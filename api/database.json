@@ -1,0 +1,40 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "1) Mario Mario"
+    },
+    {
+      "id": 2,
+      "name": "2) Luigi Mario"
+    }
+  ],
+  "completions": [
+  ],
+  "requests": [
+    {
+      "name": "King Koopa",
+      "description": "Flooded house.",
+      "address": "425 Toad St., Mushroom Kingdom, NY",
+      "budget": "65000",
+      "neededBy": "2023-1-24",
+      "id": 1
+    },
+    {
+      "name": "Toadstool",
+      "description": "Ring stuck in pipes.",
+      "address": "132 Mystery Block Alley., Mushroom Kingdom, NY",
+      "budget": "600",
+      "neededBy": "2024-2-3",
+      "id": 2
+    },
+    {
+      "name": "Toad",
+      "description": "SOMEBODY SEND HELP! I'VE FALLED INTO THE PIPES!'",
+      "address": "234 Fireball Ln., Mushroom Kingdom, NY",
+      "budget": "0",
+      "neededBy": "2023-2-1",
+      "id": 3
+    }
+  ]
+}
